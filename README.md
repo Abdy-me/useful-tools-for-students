@@ -18,11 +18,14 @@ Each section is written by a different team member.
 <!-- [vines23] will write this section -->
 
 ## Notion
-* Notion helps in combination ofthe following into one workspace:
- -  Task management
- -  Databases
- -  Ai tools
- -  collaboration
+* Notion is a platform that assists
+with:
+   -  Note taking and documentation
+   -  project and task management
+   -  Databases and formula
+   -  collaboration and integration
+   -  It also offers Ai assistance  
+
     
 ## Canva
 <!-- [haniumusalama] will write this section -->
