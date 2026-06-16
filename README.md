@@ -15,7 +15,40 @@ This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## VS Code
-<!-- [vines23] will write this section -->
+VS Code
+
+Visual Studio Code (VS Code) is a free and powerful code editor developed by Microsoft. It is one of the most popular tools used by students, programmers, and software developers around the world. VS Code supports many programming languages, including HTML, CSS, JavaScript, Python, Java, and C++.
+
+Why Students Should Use VS Code
+
+- It is free to download and use.
+- It works on Windows, macOS, and Linux.
+- It provides syntax highlighting, making code easier to read.
+- It includes a built-in terminal for running commands.
+- Thousands of extensions can be installed to add extra features.
+- It helps beginners write and organize code efficiently.
+
+Getting Started
+
+1. Download VS Code from https://code.visualstudio.com/.
+2. Install the software on your computer.
+3. Open a project folder or create a new file.
+4. Start writing code and save your work.
+5. Install useful extensions such as Live Server, Prettier, and GitHub Copilot.
+
+Useful Features
+
+- IntelliSense: Provides code suggestions and auto-completion.
+- Extensions: Add support for different languages and tools.
+- Git Integration: Allows users to manage projects with Git and GitHub.
+- Debugging Tools: Help find and fix errors in code.
+- Live Preview: View web pages while developing them.
+
+Useful Links
+
+- VS Code Official Website: https://code.visualstudio.com/
+- VS Code Documentation: https://code.visualstudio.com/docs
+- VS Code Tips and Tricks: https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 ## Notion
 * Notion is a platform that assists
