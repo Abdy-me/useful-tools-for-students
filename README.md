@@ -50,17 +50,38 @@ Useful Links
 - VS Code Documentation: https://code.visualstudio.com/docs
 - VS Code Tips and Tricks: https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
-## Notion
-* Notion is a platform that assists
-with:
-   -  Note taking and documentation
-   -  project and task management
-   -  Databases and formula
-   -  collaboration and integration
-   -  It also offers Ai assistance  
+## Notion 
+# Notion aids in performing the following functions:
+1. Note-taking
+- Write and organize notes.
+- Create study notes, meeting notes, and personal journals.
+2. Task Management
+- Create to-do lists.
+- Track assignments, projects, and deadlines.
+3. Database Creation
+- Store and organize information in tables.
+- Filter, sort, and search data easily
+4. Project Planning
+- Plan projects with timelines and task boards.
+- Assign tasks to team members.
+5. Document Storage
+- Keep documents, links, images, and files in one place.
+6. Team Collaboration
+- Share pages with others.
+- Edit documents together in real time.
+7. Knowledge Management
+- Create a personal or company wiki.
+- Store procedures, guides, and important information.
+8. Calendar and Scheduling
+- View tasks and events in a calendar format.
+- Track deadlines and schedules.
 
-    
-## Canva
+  *You can access notation by
+   visiting:(Notion.so)
+   Downloading the notation app in Google play store<br>
+  Download for Windows or mac from
+ notion.so
+  ## Canva
 <!-- [haniumusalama] will write this section -->
 ## Github
 <!-- [Abdy-me] will write this section -->
