@@ -18,10 +18,10 @@ Each section is written by a different team member.
 <!-- [vines23] will write this section -->
 
 ## Notion
-** Notion helps in combination ofthe following into one workspace**:
+# Notion helps in combination ofthe following into one workspace:
  -  Task management
  -  Databases
- -  Ai
+ -  Ai tools
  -  collaboration
     
 ## Canva
