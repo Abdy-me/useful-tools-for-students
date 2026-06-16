@@ -50,8 +50,8 @@ Useful Links
 - VS Code Documentation: https://code.visualstudio.com/docs
 - VS Code Tips and Tricks: https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
-## Notion 
-# Notion aids in performing the following functions:
+# Notion 
+## Notion aids in performing the following functions:
 1. Note-taking
 - Write and organize notes.
 - Create study notes, meeting notes, and personal journals.
@@ -75,11 +75,11 @@ Useful Links
 8. Calendar and Scheduling
 - View tasks and events in a calendar format.
 - Track deadlines and schedules.
-
-  *You can access notation by
-   visiting:(Notion.so)
-   Downloading the notation app in Google play store<br>
-  Download for Windows or mac from
+*  You can access notation by
+   visiting official website:
+      https//www.notation.com
+* Downloading the notation app in Google play store
+* Download for Windows or mac from
  notion.so
   ## Canva
 <!-- [haniumusalama] will write this section -->
