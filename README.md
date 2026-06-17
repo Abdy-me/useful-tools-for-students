@@ -177,4 +177,26 @@ Body: Open Sans
 
 “coding background
 ## Github
-<!-- [Abdy-me] will write this section -->
+-This is a website where developers store their code,track changes,work together
+### Importance
+1. Backup your code online
+2. version history
+3. Helps in team collaboration
+4. You can share and show off your project
+5. It acts as your portfolio where recruiters check your github
+6. it is also the industry standar
+### Its downs
+1. The learning curve is brutal at first
+2. It`s not grreat for huge files (*github complains when files are over 100MB*)
+> Despite the downs,GitHub is still the best skill you can learn earl.
+### Important tools to use
+- Repositories
+- Issues
+- Pull requests
+- GitHub Actions
+- GitHub pages
+Bt the most important ones are:**Repositories**,**Pull requests**,and **GitHub pages**
+## Links
+[github](https://github.com)
+[Skills](https://skills.github.com)
+
