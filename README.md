@@ -1,4 +1,4 @@
-**# Useful-Tools-for-Students
+# Useful-Tools-for-Students
 A collaborative guide by;
 -haniumusalama3
 -vines23
@@ -56,7 +56,7 @@ Useful Links
 - Write and organize notes.
 - Create study notes, meeting notes, and personal journals.
 2. Task Management
-- Create to-do lists.
+- Create to do lists.
 - Track assignments, projects, and deadlines.
 3. Database Creation
 - Store and organize information in tables.
