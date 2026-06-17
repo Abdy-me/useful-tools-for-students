@@ -15,6 +15,7 @@ This guide covers tools that every student should know about.
 Each section is written by a different team member.
 
 ## VS Code
+<!-- [vines23] will write this section -->VS Code
 VS Code
 
 Visual Studio Code (VS Code) is a free and powerful code editor developed by Microsoft. It is one of the most popular tools used by students, programmers, and software developers around the world. VS Code supports many programming languages, including HTML, CSS, JavaScript, Python, Java, and C++.
@@ -50,6 +51,14 @@ Useful Links
 - VS Code Documentation: https://code.visualstudio.com/docs
 - VS Code Tips and Tricks: https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
+## Notion
+* Notion helps in combination ofthe following into one workspace:
+ -  Task management
+ -  Databases
+ -  Ai tools
+ -  collaboration
+    
+## Canva
 # Notion 
 ## Notion aids in performing the following functions:
 1. Note-taking
