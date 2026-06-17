@@ -92,7 +92,7 @@ Useful Links
 TEAM COLLABORATION
 Working Together Using Git & GitHub
 
-🟦 SECTION 1: INTRODUCTION
+
 Team collaboration means developers working together on a project by sharing tasks, writing code, and reviewing each other’s work.
 
 📌 It helps teams:
@@ -105,7 +105,7 @@ Team collaboration means developers working together on a project by sharing tas
 
 •Communicate effectively
 
-🟩 SECTION 2: TOOLS USED
+ TOOLS USED:
 Git
 •Tracks code changes
 
@@ -120,21 +120,10 @@ Online platform for Git
 
 •Enables teamwork and collaboration
 
-🟨 SECTION 3: KEY FEATURES
-🔹 Forking
-Make a copy of a repository to work safely.
-
-🔹 Branching
-Work on different features separately.
-
-🔹 Pull Requests
-Request to merge your code after review.
-
-🟪 SECTION 4: TEAM WORKFLOW
+ TEAM WORKFLOW:
 Fork → Clone → Branch → Code → Commit → Push → Pull Request → Review → Merge
 👉 This shows how teams work together step by step.
-
-🟥 SECTION 5: BENEFITS
+BENEFITS:
 •Faster development
 
 •Better teamwork
@@ -143,28 +132,7 @@ Fork → Clone → Branch → Code → Commit → Push → Pull Request → Revi
 
 •Easy problem solving
 
-•Smooth project management
-
-⚫ FOOTER
-💡 CONCLUSION
-Team collaboration using Git and GitHub helps developers work efficiently and build high-quality software together.
-
-🎨 CANVA DESIGN IDEAS
-Colors:
-Dark Blue (#0f172a)
-
-🔵Blue (#2563eb)
-
-⚪White (#ffffff)
-
-🟣Purple (#7c3aed)
-
-Fonts:
-Title: Montserrat Bold
-
-Headings: Poppins
-
-Body: Open Sans
+•Smooth project management.
 
 🧩 SEARCH IN CANVA:
 “teamwork illustration”
