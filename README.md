@@ -134,14 +134,7 @@ BENEFITS:
 
 •Smooth project management.
 
-🧩 SEARCH IN CANVA:
-“teamwork illustration”
 
-“GitHub logo”
-
-“developer collaboration”
-
-“workflow arrows”
 
 “coding background
 ## Github
