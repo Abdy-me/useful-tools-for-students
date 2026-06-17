@@ -9,6 +9,7 @@ A collaborative guide by;
 - [VS Code](#vs-code)
 - [Notion](#notion)
 - [Canva](#canva)
+- [GitHub]
 
 ## Introduction
 This guide covers tools that every student should know about.
